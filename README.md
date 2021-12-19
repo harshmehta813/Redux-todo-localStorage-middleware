@@ -1,2 +1,2 @@
-# Redux-todo-localStorage-middleware
+# redux-todo
 Created with CodeSandbox
